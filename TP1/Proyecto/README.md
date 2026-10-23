@@ -23,15 +23,4 @@ En esta carpeta va el **proyecto completo** del Trabajo Práctico, listo para im
 - Binarios y archivos generados (`.o`, `.elf`, `.axf`, `.bin`, `.hex`, `.map`).
 - Archivos personales del IDE o del sistema operativo.
 
-## Cómo compilar y ejecutar
 
-> Describir brevemente los pasos para importar el proyecto, compilarlo y cargarlo en la placa, y las conexiones de hardware necesarias (si hay periféricos externos).
-
-## Organización del código
-
-> Describir brevemente qué contiene cada archivo o módulo.
-
-| Archivo      | Descripción                       |
-|--------------|-----------------------------------|
-| `main.c`     |                                   |
-|              |                                   |
