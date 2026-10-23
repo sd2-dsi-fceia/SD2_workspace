@@ -1,4 +1,4 @@
-# Trabajo Práctico N° n — Título del TP
+# Trabajo Práctico N° 2 — Título del TP
 
 > Reemplazar `n` y el título por los del TP correspondiente.
 
